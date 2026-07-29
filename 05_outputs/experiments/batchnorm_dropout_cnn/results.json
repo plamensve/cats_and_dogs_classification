@@ -1,0 +1,9 @@
+{
+    "model_name": "BatchNormAndDropoutCNN",
+    "epochs": 20,
+    "optimizer": "Adam",
+    "learning_rate": 0.0001,
+    "test_loader_validation_accuracy": 0.8699,
+    "random_images_accuracy": "23/30",
+    "random_images_accuracy_percent": 0.7667
+}
