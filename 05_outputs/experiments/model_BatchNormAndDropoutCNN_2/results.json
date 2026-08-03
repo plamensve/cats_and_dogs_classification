@@ -1,9 +1,19 @@
 {
+    "_comment": "Two experiments with the same model but the second test is with more images",
+
     "model_name": "BatchNormAndDropoutCNN_2",
     "epochs": 30,
     "optimizer": "Adam",
     "learning_rate": 0.0001,
     "random_images_accuracy": "25/30",
     "test_loader_validation_accuracy": 0.8934,
-    "random_images_accuracy_percent": 0.8333
+    "random_images_accuracy_percent": 0.8333,
+
+    "model_name_1": "BatchNormAndDropoutCNN_2",
+    "epochs_1": 30,
+    "optimizer_1": "Adam",
+    "learning_rate_1": 0.0001,
+    "random_images_accuracy_1": "54/60",
+    "test_loader_validation_accuracy_1": 0.8934,
+    "random_images_accuracy_percent_1": 0.9000
 }
