@@ -1,0 +1,6 @@
+{
+    "model_name": "GlobalAveragePoolingCNN",
+    "epochs": 100,
+    "optimizer": "AdamW",
+    "learning_rate": 1.953125e-07
+}
