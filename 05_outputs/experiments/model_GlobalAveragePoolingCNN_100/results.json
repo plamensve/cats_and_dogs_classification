@@ -2,5 +2,8 @@
     "model_name": "GlobalAveragePoolingCNN",
     "epochs": 100,
     "optimizer": "AdamW",
-    "learning_rate": 1.953125e-07
+    "learning_rate": 1.953125e-07,
+    "validation accuracy": 0.9554,
+    "correct predictions": "61/64",
+    "external images accuracy": 0.9531
 }
